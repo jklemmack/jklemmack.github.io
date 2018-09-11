@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: A New Post
 published: true
 ---
 ## A New Post
